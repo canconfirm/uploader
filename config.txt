@@ -3,6 +3,8 @@
 
 USERNAME = 'USERNAME'    
 PASSWORD = 'PASSWORD'
+WHATIMGUSER = 'WHATIMGUSERNAME'
+WHATIMGPASS = 'WHATIMGUSERPASS'
 default_folder = '/' 				## root
 
 verbose = True      ## should it print out status and stuff or just be quiet
